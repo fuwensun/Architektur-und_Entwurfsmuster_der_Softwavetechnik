@@ -1,0 +1,3 @@
+rootProject.name = 'Architektur-und_Entwurfsmuster_der_Softwavetechnik'
+include 'Adapter'
+
