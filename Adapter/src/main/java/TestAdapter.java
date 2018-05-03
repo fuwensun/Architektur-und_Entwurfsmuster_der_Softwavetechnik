@@ -1,6 +1,7 @@
 import java.util.Vector;
 
 public class TestAdapter {
+
     public static void main(String[] args) {
 
         System.out.println("test!!!");
@@ -10,5 +11,6 @@ public class TestAdapter {
 
         for(Person person : personen)
             person.print();
+
     }
 }
