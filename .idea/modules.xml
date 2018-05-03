@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter.iml" group="Adapter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter_main.iml" group="Adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter_main.iml" group="Adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter_test.iml" group="Adapter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter_test.iml" group="Adapter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Architektur-und_Entwurfsmuster_der_Softwavetechnik.iml" filepath="$PROJECT_DIR$/.idea/modules/Architektur-und_Entwurfsmuster_der_Softwavetechnik.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Architektur-und_Entwurfsmuster_der_Softwavetechnik_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Architektur-und_Entwurfsmuster_der_Softwavetechnik_main.iml" group="Architektur-und_Entwurfsmuster_der_Softwavetechnik" />
