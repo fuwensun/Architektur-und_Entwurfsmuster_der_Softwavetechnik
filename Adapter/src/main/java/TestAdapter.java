@@ -12,3 +12,5 @@ public class TestAdapter {
             person.print();
     }
 }
+
+
