@@ -13,13 +13,16 @@ public class ListenAbspielgeraet extends Abspielgeraet {
 
     //    新功能
     public void abspielenUndAusschalten() {
+        System.out.println("<A头>-->新功能开始！");
+
         for (int i : liste) {
             impl.springeZuTrack(i);
             AbspielDaten daten = impl.leseDaten();
             System.out.println(daten);
         }
-
         impl.ausschalten();
+
+        System.out.println("<A头>-->新功能结束！");
     }
 }
 

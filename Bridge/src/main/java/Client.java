@@ -6,12 +6,17 @@ import java.util.List;
 public class Client {
     public static void main(String[] args) {
 
+        System.out.println("");
+
         Abspielgeraet a = new Abspielgeraet(new CDSpieler());
         a.spieleAb(3);
 
-        Abspielgeraet b = new Abspielgeraet(new CDSpieler());
+        System.out.println("");
+
+        Abspielgeraet b = new Abspielgeraet(new KassettenSpieler());
         b.spieleAb(5);
 
+        System.out.println("");
 
         ArrayList<Integer> abspieliste = new ArrayList<Integer>();
         abspieliste.add(1);
