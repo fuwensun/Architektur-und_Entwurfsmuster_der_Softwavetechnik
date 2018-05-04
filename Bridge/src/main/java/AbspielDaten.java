@@ -1,9 +1,9 @@
 //播放数据
 
-public class AbspieDaten {
+public class AbspielDaten {
     private String daten;
 
-    public AbspieDaten(String daten){
+    public AbspielDaten(String daten){
         this.daten = daten;
     }
 

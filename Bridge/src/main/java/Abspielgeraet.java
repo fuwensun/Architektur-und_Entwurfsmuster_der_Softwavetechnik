@@ -10,7 +10,7 @@ public class Abspielgeraet {
 
     public void spieleAb(int liedNummer){
         impl.springeZuTrack(liedNummer);
-        AbspieDaten dat = impl.leseDaten();
+        AbspielDaten dat = impl.leseDaten();
         //数据输出
         System.out.println(dat);
     }
