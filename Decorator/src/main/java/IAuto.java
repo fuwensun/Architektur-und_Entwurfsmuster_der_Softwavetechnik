@@ -1,6 +1,6 @@
 //汽车接口
 
 public interface IAuto {
-    public int gibkosten();
+    public int gibKosten();
     public void zeigeDetails();
 }
