@@ -9,7 +9,7 @@ public class Navigationssytem extends Ausstattung{
     @Override
     public void zeigeDetails(){
         auto.zeigeDetails();
-        System.out.print(", Navigationssytem");
+        System.out.print(", Navigationssytem<导航系统>");
     }
 
     @Override

@@ -8,7 +8,7 @@ public class Seitenairbags extends Ausstattung{
     @Override
     public void zeigeDetails(){
         auto.zeigeDetails();
-        System.out.print(", Seitenairbags");
+        System.out.print(", Seitenairbags<侧面安全气囊>");
     }
 
     @Override

@@ -3,10 +3,10 @@
 public class Cabrio implements IAuto{
     @Override
     public void zeigeDetails(){
-        System.out.print("Cabrio");
+        System.out.print("Cabrio<敞篷车>");
     }
     @Override
     public int gibKosten() {
-        return 5000;
+        return 50000;
     }
 }

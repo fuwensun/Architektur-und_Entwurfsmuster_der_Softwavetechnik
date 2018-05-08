@@ -9,6 +9,7 @@ public abstract class Ausstattung implements IAuto{
 }
 
 
+//ok
 //public class Ausstattung implements IAuto{
 //
 //    protected IAuto auto;
